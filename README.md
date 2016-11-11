@@ -27,3 +27,15 @@ With relational DBMSs (RDBMSs), this API is SQL, a standard programming language
 3. Create Git Repository on github.com. Name it via YourName-DB-hometask
 
 4. Fork Repository https://github.com/deathliger666/Database-Managment
+
+II. Lecture Main points of Db projecting
+
+1. Архітектура СБД ANSI/SPARC. Три рівні. Порівняльна характеристика рівнів.
+   
+
+2. Створити базу данних аптеки( тільки концептуальна модель)
+    
+     Создать базу данных апеки в которой есть лекарства заводские и своего производства(Компоненти).
+         В аптеке работают сотрудники по сменною аптека круглосуточнjю. 
+         Лекарства хранятся на складе который находится возле аптеки.
+          Есть возможность доставлять лекарства на дом и в больницыю Доставка в больницы по оптовым ценам.
